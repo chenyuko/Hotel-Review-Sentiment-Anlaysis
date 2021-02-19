@@ -11,7 +11,7 @@ The Goal of the project is to provide a sentiment analysis model to help busines
 ### How to run the program? 
  1. Please first download the hotel review data from https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe and named it as Hotel_Reviews.csv
  2. Run Clean_Hotel_Reviews_all.py to preprocess and vectorize reviews' data in text format  
- 3. Follow and run the program cells in Hotel_RNN_model_final.ipynb
+ 3. Follow and run the steps in Hotel_RNN_model_final.ipynb
 
 ### Data Source: 
 https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
