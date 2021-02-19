@@ -17,6 +17,6 @@ The Goal of the project is to provide a sentiment analysis model to help busines
 
 
 ### Data: 
-There are 515,000 reviews of European Luxury 5 star hotels in total. \n
-Source:  https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
+- There are 515,000 reviews of European Luxury 5 star hotels in total.
+- Source:  https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
 
