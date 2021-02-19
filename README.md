@@ -8,8 +8,8 @@ The Goal of the project is to provide a sentiment analysis model to help busines
 - GRU with embedding layers trained from reviews 
 - GRU with user background information and embedding layers trained from reviews 
 
-![Alt text](https://github.com/chenyuko/Hotel-Review-Sentiment-Anlaysis/blob/main/model/GRU.png | width=50)
-![Alt text](https://github.com/chenyuko/Hotel-Review-Sentiment-Anlaysis/blob/main/model/GRU_combine.png | width=50)
+![Alt text](https://github.com/chenyuko/Hotel-Review-Sentiment-Anlaysis/blob/main/model/GRU.png =100x20)
+![Alt text](https://github.com/chenyuko/Hotel-Review-Sentiment-Anlaysis/blob/main/model/GRU_combine.png =100x20)
 
 ### How to run the program? 
  1. Please first download the hotel review data from https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe and named it as Hotel_Reviews.csv
