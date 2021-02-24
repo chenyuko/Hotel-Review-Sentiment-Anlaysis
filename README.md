@@ -1,7 +1,7 @@
 # Hotel-Review-Sentiment-Anlaysis
 
 ### Goal: 
-The Goal of the project is to provide a sentiment analysis model to help business classify reviewer's reviews into 3 categories (positvie/ neutral/ negative) utilizing the large european hotels' data set from Booking.com. 
+The Goal of the project is to provide a sentiment analysis model to help business classify reviewer's reviews into 3 categories (positvie/ neutral/ negative) utilizing the large European hotels' data set from Booking.com. 
 
 ### Model: 
 - Baseline: Naive Bayes trained with BOW and Naive Bayes with TFIDF 
