@@ -1,4 +1,4 @@
-# Hotel-Review-Sentiment-Anlaysis
+# Hotel-Review-Sentiment-Prediction
 
 ### Goal: 
 The Goal of the project is to provide a sentiment analysis model to help business classify reviewer's reviews into 3 categories (positvie/ neutral/ negative) utilizing the large European hotels' data set from Booking.com. 
